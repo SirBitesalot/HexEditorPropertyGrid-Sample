@@ -1,5 +1,5 @@
 # HexEditorPropertyGrid-Sample
-Sample that show how to use Be.Windows.Forms.HexBox with Propertygrid and custom UITypeEditor
+Sample that show how to use Be.Windows.Forms.HexBox with Propertygrid and custom UITypeEditor resulting in a HexEditor that can edity byte arrays.
 
 Dependencies
 --------
